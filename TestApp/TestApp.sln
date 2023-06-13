@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "TestApp\TestApp.csproj", "{1FD43E73-064F-41E0-B8F7-C5052610B148}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometryLibrary", "GeometryLibrary\GeometryLibrary.csproj", "{E9B23297-B495-48C8-8AB9-FB8C31205965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{D34E37EB-9A8A-4AE3-AA2E-6746472F4076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD43E73-064F-41E0-B8F7-C5052610B148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD43E73-064F-41E0-B8F7-C5052610B148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD43E73-064F-41E0-B8F7-C5052610B148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD43E73-064F-41E0-B8F7-C5052610B148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B23297-B495-48C8-8AB9-FB8C31205965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B23297-B495-48C8-8AB9-FB8C31205965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B23297-B495-48C8-8AB9-FB8C31205965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B23297-B495-48C8-8AB9-FB8C31205965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34E37EB-9A8A-4AE3-AA2E-6746472F4076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34E37EB-9A8A-4AE3-AA2E-6746472F4076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34E37EB-9A8A-4AE3-AA2E-6746472F4076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34E37EB-9A8A-4AE3-AA2E-6746472F4076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A8EEF08-B469-4005-8EBB-211BF107E40D}
+	EndGlobalSection
+EndGlobal
